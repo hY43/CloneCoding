@@ -1,4 +1,4 @@
-# airbnbWithPython
+## 1.airbnbWithPython
 
 장고 프레임워크를 사용하기에 앞서 한번 해보는 토이 프로젝트.
 
