@@ -1,6 +1,7 @@
 ## 0. Repository Infomation
 
 - 이 Repository는 클론 코딩한 프로젝트의 접근 URL 및 클론 코딩된 사이트에 대한 설명을 요약하여 정리해둔다.
+- 각 클론 프로젝트에 대한 폴더에는 해당 클론 프로젝트를 구현하며 얻은 정보를 정리해둔다.
 
 ## 1. chrome momentum
 
