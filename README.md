@@ -1,13 +1,24 @@
-클론코딩을 통해 이것저것 구현해보는 토이 프로젝트 모음
+## 0. Repository Infomation
+
+- 이 Repository는 클론 코딩한 프로젝트의 접근 URL 및 클론 코딩된 사이트에 대한 설명을 요약하여 정리해둔다.
+
 ## 1. chrome momentum
 
-Vanilla JS 로 할일목록 앱 만들기.
-가능하면... 나중에 React JS...
+#### 1-1. 개요
+- Chrome App - Momentum 만들기
+- Vanilla JS(순수 자바스크립트)에 대한 연습을 위해 간단한 웹앱을 클론해본다..
 
-- 현재 시간 확인
-- 현재 위치 및 날씨 확인
+#### 1-2. 사용 기술
+- Vanilla JS
+
+#### 1-3. 구현 내용
+- 현재 위치 및 해당 위치에 대한 시간/날씨 확인
 - 그림 업로드
-- 할일 목록 추가 삭제
+- 할일 목록 추가/삭제 기능
+
+#### 1-4. 접근 URL
+- Github Page URL : 
+- Github Repository URL : 
 
 ## 2.airbnbWithPython
 
